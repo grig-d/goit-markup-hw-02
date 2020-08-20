@@ -1,18 +1,17 @@
 :root {
-	--primary-text-color: #212121;
-	--title-text-color: #757575;
+	--primary-text-color: #757575;
+	--title-text-color: #212121;
 	--accent-color: #2196f3;
 	--hero-text-color: #ffffff;
-	--first-bgc: #ffffff;
-	--second-bgc: #f5f4fa;
-	--hero-bgc: #2f303a;
+	--first-back-color: #ffffff;
+	--second-back-color: #f5f4fa;
+	--hero-back-color: #2f303a;
 	--header-logo-color: #000000;
 	--footer-logo-color: #ffffff;
-	--footer-bgc: #2f303a;
+	--footer-back-color: #2f303a;
 	--footer-contacts-color: rgba(255, 255, 255, 0.6);
 }
 
-/* bgc=background-color */
 
 body {
 	background-color: #ffffff;
