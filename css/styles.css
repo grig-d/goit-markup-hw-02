@@ -173,15 +173,6 @@ body {
 	color: var(--accent-color);
 }
 
-.site-nav .link:hover,
-.site-nav .link:focus,
-.contacts .link:hover,
-.contacts .link:focus,
-.address .link:hover,
-.address .link:focus {
-	color: var(--accent-color);
-}
-
 .portfolio-list .title {
 	font-family: "Roboto", "Arial", "Verdana", sans-serif;
 	font-style: normal;
@@ -231,4 +222,13 @@ body {
 
 .address .link {
 	color: var(--footer-link-color);
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus,
+.contacts .link:hover,
+.contacts .link:focus,
+.address .link:hover,
+.address .link:focus {
+	color: var(--accent-color);
 }
