@@ -176,7 +176,9 @@ body {
 .site-nav .link:hover,
 .site-nav .link:focus,
 .contacts .link:hover,
-.contacts .link:focus {
+.contacts .link:focus,
+.address .link:hover,
+.address .link:focus {
 	color: var(--accent-color);
 }
 
