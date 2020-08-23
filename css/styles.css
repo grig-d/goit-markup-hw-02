@@ -15,6 +15,10 @@
 
 body {
 	background-color: var(--first-background-color);
+	font-family: "Roboto", "Arial", "Verdana", sans-serif;
+	font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
 }
 
 .link {
@@ -44,10 +48,7 @@ body {
 
 .site-nav .link,
 .contacts {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
 	font-weight: 500;
-	font-size: 14px;
 	line-height: 16px;
 	letter-spacing: 0.02em;
 	color: var(--title-text-color);
@@ -63,8 +64,6 @@ body {
 }
 
 .hero-title {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
 	font-weight: 900;
 	font-size: 44px;
 	line-height: 60px;
@@ -79,8 +78,6 @@ body {
 }
 
 .hero .button {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
 	font-weight: 700;
 	font-size: 16px;
 	line-height: 30px; /* identical to box height, or 187% */
@@ -93,8 +90,6 @@ body {
 }
 
 .filter-list .button {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 26px; /* identical to box height, or 162% */
@@ -112,8 +107,6 @@ body {
 }
 
 .section-title {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
 	font-weight: 700;
 	font-size: 36px;
 	line-height: 42px;
@@ -128,10 +121,7 @@ body {
 }
 
 .feature-list .title {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
 	font-weight: 700;
-	font-size: 14px;
 	line-height: 16px;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
@@ -139,18 +129,12 @@ body {
 }
 
 .feature-list .item-text {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
-	font-weight: 400;
-	font-size: 14px;
 	line-height: 24px; /* or 171% */
 	letter-spacing: 0.03em;
 	color: var(--primary-text-color);
 }
 
 .team-list .title {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 19px; /* identical to box height */
@@ -160,9 +144,6 @@ body {
 }
 
 .team-list .item-text {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 19px; /* identical to box height */
 	text-align: center;
@@ -175,8 +156,6 @@ body {
 }
 
 .portfolio-list .title {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
 	font-weight: 700;
 	font-size: 18px;
 	line-height: 36px; /* identical to box height, or 200% */
@@ -185,9 +164,6 @@ body {
 }
 
 .portfolio-list .item-text {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 16px;
 	line-height: 30px; /* identical to box height, or 187% */
 	letter-spacing: 0.03em;
@@ -213,10 +189,7 @@ body {
 }
 
 .address {
-	font-family: "Roboto", "Arial", "Verdana", sans-serif;
 	font-style: normal;
-	font-weight: 400;
-	font-size: 14px;
 	line-height: 24px; /* or 171% */
 	letter-spacing: 0.03em;
 }
